@@ -1,4 +1,4 @@
-# Hi, this is [@scmn-dev](https://secman.dev/team)
+# Hi, this is [secman](https://secman.dev)
 
 > 🔒 The password manager of your dreams.
 
