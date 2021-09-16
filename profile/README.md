@@ -22,12 +22,12 @@
 
 ## Look at Secman Products
 
-1. Secman CLI
+1. _**Secman CLI**_
 <p align="center">
    <img src="https://assets.secman.dev/assets/Secman.svg" />
 </p>
 
-2. Secman Desktop
+2. _**Secman Desktop**_
 
 <p align="center">
    <img src="https://assets.secman.dev/assets/Secman-Desktop.png" />
