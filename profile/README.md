@@ -76,7 +76,27 @@
   </tr>
 </table>
 
+## License
+
+[secman][smUrl] is licensed under the terms of [MIT][mitUrl] License
+
+## Some Resources
+
+- [**secman website**](https://secman.dev)
+- [**docs website**](https://docs.secman.dev)
+- [**secman cli website**](https://cli.secman.dev)
+- [**changelog website**](https://changelog.secman.dev)
+
+### Find Us
+
+- Twitter: [@SecmanDev](https://twitter.com/SecmanDev)
+- Discord: [Secman Discord Server](https://discord.gg/YQpgQ3cYHb)
+- Email: contact@secman.dev
+
 ### Special thanks ❤
 
 [**@sendgrid**](https://sendgrid.com)
 [**@railwayapp**](https://railway.app)
+
+[smUrl]: https://secman.dev
+[mitUrl]: https://github.com/scmn-dev/secman/blob/main/LICENSE
