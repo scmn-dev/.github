@@ -16,7 +16,7 @@
 
 - [x] [**Secman CLI**](https://github.com/scmn-dev/secman): **Bring Secman To Your Terminal.**
 - [x] [**Secman Desktop**](https://github.com/scmn-dev/desktop): **Secman Desktop is the desktop client for secman.**
-- [ ] [**Secman Web Extension**](https://github.com/scmn-dev/sm-extension): **Official browser extension for Secman.**
+- [x] [**Secman Web Extension**](https://github.com/scmn-dev/sm-extension): **Official browser extension for Secman.**
 - [ ] [**Gepis**](https://github.com/gepis/gepis): **Secure & Fast Container and Pod Manager.**
 - [ ] [**Oxto**](https://github.com/abdfnx/oxto): **Simple Container Runtime.**
 
@@ -24,13 +24,25 @@
 
 1. _**Secman CLI**_
 <p align="center">
+  <a href="https://cli.secman.dev" target="_blank">
    <img src="https://assets.secman.dev/assets/Secman.svg" />
+  </a>
 </p>
 
 2. _**Secman Desktop**_
 
 <p align="center">
+  <a href="https://dl.secman.dev" target="_blank">
    <img src="https://assets.secman.dev/assets/Secman-Desktop.png" />
+  </a>
+</p>
+
+3. _**Secman Web Extension**_
+
+<p align="center">
+  <a href="https://dl.secman.dev" target="_blank">
+   <img src="https://assets.secman.dev/assets/Secman-Ext.png" />
+  </a>
 </p>
 
 ### Our Awesome Team 👨‍💻
