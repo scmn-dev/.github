@@ -32,7 +32,7 @@
 2. _**Secman Desktop**_
 
 <p align="center">
-  <a href="https://dl.secman.dev" target="_blank">
+  <a href="https://d.secman.dev" target="_blank">
    <img src="https://assets.secman.dev/assets/Secman-Desktop.png" />
   </a>
 </p>
@@ -40,7 +40,7 @@
 3. _**Secman Web Extension**_
 
 <p align="center">
-  <a href="https://dl.secman.dev" target="_blank">
+  <a href="https://secman.dev/extension" target="_blank">
    <img src="https://assets.secman.dev/assets/Secman-Ext.png" />
   </a>
 </p>
