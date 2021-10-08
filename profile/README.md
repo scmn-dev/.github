@@ -90,7 +90,7 @@
 
 ## License
 
-[secman][smUrl] is licensed under the terms of [MIT][mitUrl] License
+[secman][smurl] is licensed under the terms of [MIT][miturl] License
 
 ## Some Resources
 
@@ -101,7 +101,7 @@
 
 ### Find Us
 
-- Twitter: [@SecmanDev](https://twitter.com/SecmanDev)
+- Twitter: [@secman_dev](https://twitter.com/secman_dev)
 - Discord: [Secman Discord Server](https://discord.gg/YQpgQ3cYHb)
 - Email: contact@secman.dev
 
@@ -111,5 +111,5 @@
 [**@railwayapp**](https://railway.app)
 [**@docker**](https://docker.com)
 
-[smUrl]: https://secman.dev
-[mitUrl]: https://github.com/scmn-dev/secman/blob/main/LICENSE
+[smurl]: https://secman.dev
+[miturl]: https://github.com/scmn-dev/secman/blob/main/LICENSE
