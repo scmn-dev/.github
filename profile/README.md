@@ -93,16 +93,9 @@
 
 [secman][smurl] is licensed under the terms of [MIT][miturl] License
 
-## Some Resources
-
-- [**secman website**](https://secman.dev)
-- [**docs website**](https://docs.secman.dev)
-- [**secman cli website**](https://cli.secman.dev)
-- [**changelog website**](https://changelog.secman.dev)
-
 ### Find Us
 
-- Twitter: [@secman_dev](https://twitter.com/secman_dev)
+- Twitter: [@_secman](https://twitter.com/_secman)
 - Discord: [Secman Discord Server](https://discord.gg/YQpgQ3cYHb)
 - Email: contact@secman.dev
 
