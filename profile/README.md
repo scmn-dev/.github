@@ -10,39 +10,14 @@
   <a href="https://secman.dev"><strong>secman.dev</strong></a>
 </p>
 
-> `secman` is a password manager can store, retrieves, generates, synchronizes passwords and save files securely, and is written in _**go**_! The most important difference is secman is not GPG cored. Instead, it uses a master password to securely store your passwords. It also supports encrypting arbitrary files.
+> `secman` is a password manager can store, retrieves, generates, and synchronizes passwords, and is written in _**TypeScript**_! The most important difference is secman is not GPG cored. Instead, it uses a master password to securely store your passwords. and you can easily manage your passwords from everywhere.
 
 ## Secman Products
 
-- [x] [**Secman CLI**](https://github.com/scmn-dev/secman): **Bring Secman To Your Terminal.**
-- [x] [**Secman Desktop**](https://github.com/scmn-dev/desktop): **Secman Desktop is the desktop client for secman.**
-- [x] [**Secman Core API**](https://secman.dev/docs/api): **📡 The Backend Infrastructure for Secman products.**
-- [x] [**Secman Web Extension**](https://secman.dev/extension): **Official browser extension for Secman.**
-
-## Look at Secman Products
-
-1. _**Secman CLI**_
-<p align="center">
-  <a href="https://cli.secman.dev" target="_blank">
-   <img src="https://assets.secman.dev/assets/Secman.svg" />
-  </a>
-</p>
-
-2. _**Secman Desktop**_
-
-<p align="center">
-  <a href="https://d.secman.dev" target="_blank">
-   <img src="https://assets.secman.dev/assets/Secman-Desktop.png" />
-  </a>
-</p>
-
-3. _**Secman Web Extension**_
-
-<p align="center">
-  <a href="https://secman.dev/extension" target="_blank">
-   <img src="https://assets.secman.dev/assets/Secman-Ext.png" />
-  </a>
-</p>
+- [**Secman CLI**](https://github.com/scmn-dev/secman): **Bring Secman To Your Terminal.**
+- [**Secman Desktop**](https://github.com/scmn-dev/desktop): **Secman Desktop is the desktop client for secman.**
+- [**Secman Core API**](https://secman.dev/docs/api): **📡 The Backend Infrastructure for Secman products.**
+- [**Secman Web Extension**](https://secman.dev/extension): **Official browser extension for Secman.**
 
 ### Our Awesome Team 👨‍💻
 
