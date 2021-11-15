@@ -1,6 +1,6 @@
 # Hi, this is [secman](https://secman.dev)
 
-> 🔒 The password manager of your dreams.
+> 👊 Human-friendly and amazing secrets manager.
 
 <p align="center">
   <img src="https://assets.secman.dev/apps/desktop/tree.svg" />
