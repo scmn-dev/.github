@@ -19,6 +19,15 @@
 - [**Secman Core API**](https://secman.dev/docs/api): **📡 The Cloud Infrastructure for Secman products.**
 - [**Secman Web Extension**](https://secman.dev/extension): **Official browser extension for Secman.**
 
+## Latest Releases
+
+
+- [scmn-dev/secman](https://github.com/scmn-dev/secman) ([v6.2.1](https://github.com/scmn-dev/secman/releases/tag/v6.2.1), 1 day ago)
+- [denoland/deno](https://github.com/denoland/deno) ([v1.20.1](https://github.com/denoland/deno/releases/tag/v1.20.1), 2 days ago)
+- [scmn-dev/docker](https://github.com/scmn-dev/docker) ([v0.4.1](https://github.com/scmn-dev/docker/releases/tag/v0.4.1), 5 days ago)
+- [abdfnx/tran](https://github.com/abdfnx/tran) ([v0.1.3](https://github.com/abdfnx/tran/releases/tag/v0.1.3), 1 week ago)
+- [abdfnx/gh-tran](https://github.com/abdfnx/gh-tran) ([v0.1.3](https://github.com/abdfnx/gh-tran/releases/tag/v0.1.3), 1 week ago)
+
 ### Find Us
 
 - Twitter: [@_secman](https://twitter.com/_secman)
