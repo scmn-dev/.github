@@ -3,7 +3,7 @@
 > 👊 Human-friendly and amazing open-source secrets manager.
 
 <p align="center">
-  <img src="../assets/secman.svg" />
+  <img src="https://raw.githubusercontent.com/scmn-dev/.github/main/assets/secman.svg" />
 </p>
 
 <p align="center">
