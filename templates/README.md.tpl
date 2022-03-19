@@ -21,9 +21,17 @@
 
 ## Latest Releases
 
-{{range recentReleases 5}}
-- [{{.Name}}]({{.URL}}) ([{{.LastRelease.TagName}}]({{.LastRelease.URL}}), {{humanize .LastRelease.PublishedAt}})
-{{- end}}
+{{- range rss "https://github.com/scmn-dev/secman/releases.atom" 1 }}
+- Secman CLI [{{ .Title }}]({{ .URL }}) ([CLI](https://github.com/scmn-dev/secman), _released {{ humanize .PublishedAt }}_)
+{{- end }}
+
+{{- range rss "https://github.com/scmn-dev/desktop/releases.atom" 1 }}
+- Secman Desktop [{{ .Title }}]({{ .URL }}) ([Desktop](https://github.com/scmn-dev/desktop), _released {{ humanize .PublishedAt }}_)
+{{- end }}
+
+{{- range rss "https://github.com/scmn-dev/extension/releases.atom" 1 }}
+- Secman Web Extension [{{ .Title }}]({{ .URL }}) ([Extension](https://github.com/scmn-dev/extension), _released {{ humanize .PublishedAt }}_)
+{{- end }}
 
 ### Find Us
 
