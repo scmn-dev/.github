@@ -29,10 +29,6 @@
 - Secman Desktop [{{ .Title }}]({{ .URL }}) ([Desktop](https://github.com/scmn-dev/desktop), _released {{ humanize .PublishedAt }}_)
 {{- end }}
 
-{{- range rss "https://github.com/scmn-dev/extension/releases.atom" 1 }}
-- Secman Web Extension [{{ .Title }}]({{ .URL }}) ([Extension](https://github.com/scmn-dev/extension), _released {{ humanize .PublishedAt }}_)
-{{- end }}
-
 ### Find Us
 
 - Twitter: [@_secman](https://twitter.com/_secman)
