@@ -14,21 +14,22 @@ We'd also love to hear about ideas for new features as issues or discussions.
 ## Build Secman
 
 ### Prerequisites:
-- `go +11`
-- `git`
-- `npm` (just for windows)
+
+- `go` version >= `13`
+- `npm` version >= `8.0.0`
 
 ### Run
 
-* run **`make`** then **`make setup`** for MacOS/Linux
-* run **`& .\script\build.ps1`**
+* run **task build** to build secman cli.
+* run **task link** to link to secman core cli and test it.
+* run **task install** to setup secman and use it.
 
 ## Create or submitting a pull request
 
 1. Create a new branch: `git checkout -b my-new-branch-name`
 2. Make sure your changes and new fixes are without errors and bugs.
-3. Create pull request at https://github.com/secman-team/secman/pulls
+3. Create pull request at https://github.com/scmn-dev/secman/pulls
 
-[hw]: https://github.com/secman-team/secman/labels/help%20wanted
-[gfi]: https://github.com/secman-team/secman/labels/good%20first%20issue
+[hw]: https://github.com/scmn-dev/secman/labels/help%20wanted
+[gfi]: https://github.com/scmn-dev/secman/labels/good%20first%20issue
 [code-of-conduct]: ./CODE-OF-CONDUCT.md
