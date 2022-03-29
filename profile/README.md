@@ -20,7 +20,7 @@
 - [**Secman Web Extension**](https://secman.dev/extension): **Official browser extension for Secman.**
 
 ## Latest Releases
-- Secman CLI [24 March Release v6.2.2](https://github.com/scmn-dev/secman/releases/tag/v6.2.2) ([CLI](https://github.com/scmn-dev/secman), _released 4 days ago_)
+- Secman CLI [24 March Release v6.2.2](https://github.com/scmn-dev/secman/releases/tag/v6.2.2) ([CLI](https://github.com/scmn-dev/secman), _released 5 days ago_)
 - Secman Desktop [20 March Release v1.1.1](https://github.com/scmn-dev/desktop/releases/tag/v1.1.1) ([Desktop](https://github.com/scmn-dev/desktop), _released 1 week ago_)
 
 ### Find Us
