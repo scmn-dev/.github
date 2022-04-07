@@ -19,14 +19,8 @@
 - [**Secman Core API**](https://secman.dev/docs/api): **📡 The Cloud Infrastructure for Secman products.**
 - [**Secman Web Extension**](https://secman.dev/extension): **Official browser extension for Secman.**
 
-## Latest Releases
-
 {{- range rss "https://github.com/scmn-dev/secman/releases.atom" 1 }}
 - Secman CLI [{{ .Title }}]({{ .URL }}) ([CLI](https://github.com/scmn-dev/secman), _released {{ humanize .PublishedAt }}_)
-{{- end }}
-
-{{- range rss "https://github.com/scmn-dev/desktop/releases.atom" 1 }}
-- Secman Desktop [{{ .Title }}]({{ .URL }}) ([Desktop](https://github.com/scmn-dev/desktop), _released {{ humanize .PublishedAt }}_)
 {{- end }}
 
 ### Find Us
