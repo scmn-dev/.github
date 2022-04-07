@@ -18,10 +18,7 @@
 - [**Secman Desktop**](https://github.com/scmn-dev/desktop): **🖥️ The desktop client for secman.**
 - [**Secman Core API**](https://secman.dev/docs/api): **📡 The Cloud Infrastructure for Secman products.**
 - [**Secman Web Extension**](https://secman.dev/extension): **Official browser extension for Secman.**
-
-## Latest Releases
-- Secman CLI [v6.2.3](https://github.com/scmn-dev/secman/releases/tag/v6.2.3) ([CLI](https://github.com/scmn-dev/secman), _released today_)
-- Secman Desktop [20 March Release v1.1.1](https://github.com/secman-archive/desktop/releases/tag/v1.1.1) ([Desktop](https://github.com/scmn-dev/desktop), _released 2 weeks ago_)
+- Secman CLI [7 April Release v6.2.3](https://github.com/scmn-dev/secman/releases/tag/v6.2.3) ([CLI](https://github.com/scmn-dev/secman), _released today_)
 
 ### Find Us
 
