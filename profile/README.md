@@ -18,7 +18,7 @@
 - [**Secman Hub**](https://github.com/scmn-dev/secman/tree/main/hub): **📦 Secman Hub is a web application for managing your passwords and other secrets.**
 - [**Secman Core API**](https://secman.dev/docs/api): **📡 The Cloud Infrastructure for Secman products.**
 - [**Secman Web Extension**](https://secman.dev/extension): **Official browser extension for Secman.**
-- Secman [7 April Release v6.2.3](https://github.com/scmn-dev/secman/releases/tag/v6.2.3) ([CLI](https://github.com/scmn-dev/secman), _released today_)
+- Secman [7 April Release v6.2.3](https://github.com/scmn-dev/secman/releases/tag/v6.2.3) ([CLI](https://github.com/scmn-dev/secman), _released 1 day ago_)
 
 ### Find Us
 
